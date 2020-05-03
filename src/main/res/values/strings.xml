@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android App</string>
+
+    <string name="imgUkulele">Picture of Ukulele</string>
+    <string name="imgCar">Animation of Car</string>
+    <string name="imgSauce">Picture of Sauce</string>
+    <string name="imgChoice">Picture of Choice</string>
+
+    <string name="txtAmount">Enter number to purchase</string>
+
+    <string name="btnUkulele">Start Playing Ukulele?</string>
+    <string name="btnCar">Start Animating Car?</string>
+    <string name="btnCalc">Calculate</string>
+
+    <string-array name="spnSpice">
+        <item>Mild ($29.95)</item>
+        <item>Medium ($39.95)</item>
+        <item>Hot ($49.95)</item>
+    </string-array>
+
+</resources>
